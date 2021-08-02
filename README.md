@@ -1,7 +1,7 @@
 # Pymusic 
 Here I provide a simple code that generate notes.
 I basically generate a sine function with a given frequency and with a few calculations make that sound just nice as you would expect from a keyboard.
-Here is your digital music producer. I currently generate a song with frequencies following a route to chaos in logistic map !
+Here is your digital music producer. I currently generate a song with frequencies following a route to chaos in logistic map ! Check out the song (lower volume for a start) while following the route to chaos on logistic.pdf.
 
 PS: This code was done under python2. If you are python3 user you will face issues with scitools.sound, see next step for that.
 Next steps:

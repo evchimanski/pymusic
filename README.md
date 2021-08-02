@@ -9,3 +9,4 @@ Next steps:
 - Real world sounds are not perfec sine functions. Lets define a gaussian distribution around each note and then creat a song with.
 - One could also create reverb, echo functions and use it to make it sound better :)
 - Read in a .wave song and extract the frequencies using a Fourier Transform, ftt for example.
+- feel free to do anything else that comes into your mind
